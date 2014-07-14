@@ -1,0 +1,11 @@
+{
+	"name": "pulse-integration-test",
+	"description": "Integration tests for the pulse system",
+	"author": "Robin Barnes <robinmbarnes@gmail.com>",
+	"dependencies": {
+		"socket.io-client": ">= 1.0.*",
+                "underscore": "*",
+                "async": ">=0.9.*"
+	}
+}
+
